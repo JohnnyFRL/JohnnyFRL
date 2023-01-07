@@ -32,4 +32,7 @@ DESIGNER
 
 A PERSISTÊNCIA É UM HÁBITO DOS VENCEDORES.
 
+![snake gif](https://github.com/JohnnyFRL/JohnnyFRL/blob/output/github-contribution-grid-snake.svg)
+
+
 
