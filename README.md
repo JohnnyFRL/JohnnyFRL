@@ -1,7 +1,7 @@
 
 
 
-### HEllo! Welcome to my profile, my name is Johnny 🙂
+### Hello! Welcome to my profile, my name is Johnny 🙂
   
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](
 johnny_dev@outlook.com)
