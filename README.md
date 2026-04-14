@@ -36,8 +36,7 @@ I'm Johnny, a Systems Information student at UFPE, passionate about technology, 
 
 ## 🐍 Snake Game (GitHub Contributions)
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/JohnnyFRL/JohnnyFRL/blob/output/github-contribution-grid-snake.svg)
 
 ## 💬 About me
 > Always learning, building, and solving problems through code.
