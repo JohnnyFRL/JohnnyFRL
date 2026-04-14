@@ -33,8 +33,11 @@ I'm Johnny, a Systems Information student at UFPE, passionate about technology, 
 - Análise exploratória de dados (EDA)  
 - Pipeline de dados  
 
-## 📈 GitHub Stats
-![Johnny GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyFRL&show_icons=true&theme=radical)
+
+## 🐍 Snake Game (GitHub Contributions)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ## 💬 About me
 > Always learning, building, and solving problems through code.
